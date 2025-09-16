@@ -1,0 +1,37 @@
+#nav {
+    align-content: center;
+    position: fixed;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    margin-left: 0;
+}
+
+a:nth-last-of-type(1) {
+    position: fixed 210px;
+    border-radius: 5px;
+    border-style: solid;
+    color: black;
+}
+
+a:nth-last-of-type(2) {
+    position: fixed 210px;
+    border-radius: 5px;
+    border-style: solid;
+    color: magenta;
+    margin-right: 210px;
+}
+
+a:nth-last-of-type(3) {
+    margin-right: 210px;
+    border-radius: 5px;
+    border-style: solid;
+    color: yellow;
+}
+
+a:nth-last-of-type(4) {
+    position: fixed 190px;
+    margin-right: 190px;
+    color: green;
+    border-radius: 5px;
+    border-style: solid;
+}

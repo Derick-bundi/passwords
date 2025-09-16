@@ -1,0 +1,7 @@
+how to unlock any android phone using kali
+1.use the link below to enter git hub   remeber to use "git clone https://github.com/tegal1337/CiLocks.git"
+2.cd CiLock 
+3.ls -l 
+4.chmod +x CiLocks
+5.sudo if ("havent") .\cilocks -- enter root user password
+6.to stop mannually press ctr + c

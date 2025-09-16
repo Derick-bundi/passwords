@@ -1,0 +1,41 @@
+OS Name	Microsoft Windows 10 Pro
+Version	10.0.19045 Build 19045
+Other OS Description 	Not Available
+OS Manufacturer	Microsoft Corporation
+System Name	BUCKY
+System Manufacturer	HP
+System Model	HP EliteBook 840 G4
+System Type	x64-based PC
+System SKU	1UL23UP#ABA
+Processor	Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz, 2712 Mhz, 2 Core(s), 4 Logical Processor(s)
+BIOS Version/Date	HP P78 Ver. 01.37, 10/20/2020
+SMBIOS Version	3.0
+Embedded Controller Version	69.81
+BIOS Mode	UEFI
+BaseBoard Manufacturer	HP
+BaseBoard Product	828C
+BaseBoard Version	KBC Version 45.51
+Platform Role	Mobile
+Secure Boot State	On
+PCR7 Configuration	Elevation Required to View
+Windows Directory	C:\WINDOWS
+System Directory	C:\WINDOWS\system32
+Boot Device	\Device\HarddiskVolume1
+Locale	United States
+Hardware Abstraction Layer	Version = "10.0.19041.3636"
+User Name	BUCKY\dero
+Time Zone	Pacific Standard Time
+Installed Physical Memory (RAM)	16.0 GB
+Total Physical Memory	15.9 GB
+Available Physical Memory	11.1 GB
+Total Virtual Memory	29.4 GB
+Available Virtual Memory	22.0 GB
+Page File Space	13.5 GB
+Page File	C:\pagefile.sys
+Kernel DMA Protection	Off
+Virtualization-based security	Not enabled
+Device Encryption Support	Elevation Required to View
+Hyper-V - VM Monitor Mode Extensions	Yes
+Hyper-V - Second Level Address Translation Extensions	Yes
+Hyper-V - Virtualization Enabled in Firmware	Yes
+Hyper-V - Data Execution Protection	Yes

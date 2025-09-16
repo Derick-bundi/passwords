@@ -1,0 +1,48 @@
+﻿
+
+SERIAL NO.
+FINGERPRINT CLASSIFICATION
+R
+2
+JAMHURI YA KENYA/REPUBLIC OF KENYA SHERIA YA USAJILI WA WATU
+(Kifunga 107)
+THE REGISTRATION OF PERSONS ACT
+(Cap.107)
+NAMBARI YA KITAMBULISHO
+(Identity Card No.)
+OMBI LA KITAMBULISHO/APPLICATION FOR IDENTITY CARD
+1. Majina Kamill
+(Full Names)
+2. Tarehe ya Kuzaliwa
+(Date of Birth)
+3. Mume/Mke
+(Male/Female)
+4. Majina ya Baba (Father's Name) 5. Majina ya Mama. (Mother's Name)
+6. Marital Status.
+7. Majina ya Mume
+(Husband's Full Names)
+8. Nambari ya Kitambulisho ya Mume.
+(Husband's ID/No.)
+9. Wilaya ya Kuzaliwa
+(District of Birth)
+10. Kabila
+(Tribe)
+11. Ukoo
+(Clan)
+12. Mlango.
+(Family)
+13. Wilaya ya Makao (Home District)
+14. Taarafa
+(Division)
+15. Eneo la Mbunge (Constituency)
+16. Mtaa
+(Location)
+17. Mtaa Mdogo. (Sub-location)
+18. Kijiji.
+(Village/Estate)
+19. Anwani
+(Village/Estate)
+20. Anwani
+(Home Address)
+21. Kazi
+(Occupation)
